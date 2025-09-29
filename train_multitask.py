@@ -4,10 +4,6 @@
 #  ------------------------------------------------------------
 #  ROI-guided · Shortcut Mitigation · Reliable Clinical AI
 #
-#  Paper: "Eliminating Shortcut Learning in Deep COVID-19 
-#         Chest X-ray Classifiers to Ensure Reliable 
-#         Performance in Real-World Clinical Practice"
-#
 #  ✨ Features:
 #    🔍 Vision Transformers (Swin via timm)
 #    🩺 Multi-task: Classification + ROI mask prediction
