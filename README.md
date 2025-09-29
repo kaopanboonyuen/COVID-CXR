@@ -1,10 +1,6 @@
 # 🧠 Transformer-based COVID-19 Chest X-ray Classifier  
 *(ROI-guided · Shortcut Mitigation · Reliable Clinical AI)*  
 
-This repository implements the framework from the paper:  
-
-**📄 "Eliminating Shortcut Learning in Deep COVID-19 Chest X-ray Classifiers to Ensure Reliable Performance in Real-World Clinical Practice"**  
-
 👨‍💻 **Author:** Kao Panboonyuen  
 
 ---
